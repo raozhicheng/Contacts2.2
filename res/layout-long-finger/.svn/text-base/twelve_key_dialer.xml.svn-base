@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2006 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/top"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+    <ListView
+        android:id="@+id/key_dialer_phonelist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fastScrollEnabled="true"
+        android:background="@android:color/background_dark"
+        android:divider="@drawable/noboard_line"
+    />  
+        <!-- Inner layout contains the button(s) and EditText -->        
+ <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"  
+    android:orientation="vertical"
+    >
+   <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@drawable/noboard_t_bg"
+      android:orientation="vertical">
+     <LinearLayout
+      android:id="@+id/search_edit_frame"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="2dip"
+      android:orientation="horizontal"
+      > 
+       <view
+            class="com.android.contacts.SearchEditText"
+            android:id="@+id/digits"
+            android:layout_height="50dip"
+            android:layout_width="300dip"
+            android:layout_weight="1.0"
+            android:layout_marginLeft="8dip"
+            android:layout_marginTop="0dip"
+            android:layout_marginBottom="0dip"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textColor="@android:color/white" 
+            android:textSize="32sp"
+      		android:background="@android:color/transparent"
+            android:inputType="textNoSuggestions"
+            android:freezesText="true"
+            />
+           <ImageButton android:id="@+id/indentationButton"
+            android:layout_width="wrap_content" 
+            android:layout_height="50dip" 
+            android:layout_marginRight="5dip"
+            android:layout_marginTop="6dip"
+            android:src="@drawable/dial_search"
+      		android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:layout_toRightOf="@id/digits"
+           />
+    </LinearLayout>
+    <View 
+	    android:layout_width="match_parent"
+	    android:layout_height="1dip"
+	    android:layout_marginTop="2dip"
+	    android:background="@drawable/noboard_line"/>
+   </LinearLayout>  
+    
+    <!-- Keypad section -->
+    <com.android.phone.ButtonGridLayout  
+    android:id="@+id/dialpad"
+    android:paddingLeft="4.5dp"
+    android:paddingRight="4.5dp"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dip"
+    android:background="@drawable/noboard_f_bg"
+    android:layout_gravity="center_horizontal"
+    android:layout_weight="1"
+>
+          <ImageButton android:id="@+id/one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_1_no_vm"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_one"
+        />
+
+        <ImageButton android:id="@+id/two"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_2"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_two"
+        />
+
+        <ImageButton android:id="@+id/three"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_3"
+		    android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_three"
+        />
+
+        <ImageButton android:id="@+id/four"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_4"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_four"
+        />
+
+        <ImageButton android:id="@+id/five"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_5"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_five"
+        />
+
+        <ImageButton android:id="@+id/six"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_6"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_six"
+        />
+
+        <ImageButton android:id="@+id/seven"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_7"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_seven"
+        />
+
+        <ImageButton android:id="@+id/eight"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_8"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_eight"
+        />
+
+        <ImageButton android:id="@+id/nine"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_9"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_nine"
+        />
+
+        <ImageButton android:id="@+id/star"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_star"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_star"
+        />
+
+        <ImageButton android:id="@+id/zero"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_0"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_zero"
+        />
+
+        <ImageButton android:id="@+id/pound"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+            android:src="@drawable/dial_num_pound"
+            android:background="@android:color/transparent"
+            android:soundEffectsEnabled="false"
+            android:contentDescription="@string/description_image_button_pound"
+        />
+</com.android.phone.ButtonGridLayout>
+    <!-- Horizontal row of buttons (Voicemail + DialButton + Delete.) -->
+    <LinearLayout 
+    android:id="@+id/voicemailAndDialAndDelete"
+    android:layout_width="wrap_content"
+    android:layout_height="40dip"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="0dip"
+    android:background="@drawable/bottom_btn2"
+    android:layout_weight="2.5"
+    android:orientation="horizontal">
+
+    <!-- Onscreen "Voicemail" button.
+         The width is 75 (from the mocks) + 12 of padding from the
+         9patch, total is 87.
+    -->
+    <ImageButton android:id="@+id/keyVisibleButton"
+        android:layout_width="44dip"
+        android:layout_height="38dip"
+        android:layout_gravity="center_vertical"
+        android:state_enabled="false"
+        android:layout_marginLeft="10dip"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/description_voicemail_button"
+        android:src="@drawable/dial_noboard" />
+
+    <!-- Onscreen "Dial" button, used on all platforms by
+         default. Its usage can be disabled using resources (see
+         config.xml.) -->
+    <ImageButton android:id="@+id/dialButton"
+        android:layout_width="150dip"
+        android:layout_height="36dip"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="30dip"
+        android:layout_marginRight="30dip"
+        android:state_enabled="true"
+        android:background="@drawable/dial_dial" 
+        android:src="@drawable/call_c" />
+
+    <!-- Onscreen "Backspace/Delete" button
+         The width is 75 (from the mocks) + 12 of padding from the
+         9patch, total is 87.
+    -->
+    <ImageButton android:id="@+id/keyGoneButton"
+        android:layout_width="44dip"
+        android:layout_height="38dip"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="10dip"
+        android:background="@android:color/transparent"
+        android:state_enabled="false"
+        android:contentDescription="@string/description_delete_button"
+        android:src="@drawable/dial_keyboard" />
+</LinearLayout>
+
+    <!-- "Dialpad chooser" UI, shown only when the user brings up the
+         Dialer while a call is already in progress.
+         When this UI is visible, the other Dialer elements
+         (the textfield and button) are hidden. -->
+    <ListView android:id="@+id/dialpadChooser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:footerDividersEnabled="true"
+    />
+</LinearLayout>
+</RelativeLayout>

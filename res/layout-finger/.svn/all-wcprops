@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MID_PROJECT/!svn/ver/3931/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger
+END
+contact_card_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MID_PROJECT/!svn/ver/4232/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contact_card_layout.xml
+END
+contacts_list_search_all_item_something.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_search_all_item_something.xml
+END
+total_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/total_contacts.xml
+END
+contact_secondery_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/3706/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contact_secondery_item.xml
+END
+quickcontact_header_med.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/quickcontact_header_med.xml
+END
+contacts_list_search_all_items.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_search_all_items.xml
+END
+display_options_net_only.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/MID_PROJECT/!svn/ver/3931/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/display_options_net_only.xml
+END
+quickcontact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/quickcontact.xml
+END
+dialpad_chooser_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/dialpad_chooser_list_item.xml
+END
+search_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MID_PROJECT/!svn/ver/4307/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/search_bar.xml
+END
+display_options_sim_only.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/MID_PROJECT/!svn/ver/4229/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/display_options_sim_only.xml
+END
+list_separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/list_separator.xml
+END
+edit_divider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/edit_divider.xml
+END
+call_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/call_detail.xml
+END
+horizontal_divider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/horizontal_divider.xml
+END
+tab_indicator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/tab_indicator.xml
+END
+tab_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/tab_layout.xml
+END
+recent_calls_list_item_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/recent_calls_list_item_layout.xml
+END
+groups_list_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MID_PROJECT/!svn/ver/3545/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/groups_list_content.xml
+END
+quickcontact_resolve_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/quickcontact_resolve_item.xml
+END
+recent_calls_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/4302/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/recent_calls_list_item.xml
+END
+display_child.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/display_child.xml
+END
+edit_contact_entry_voicemail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/edit_contact_entry_voicemail.xml
+END
+group_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/group_item.xml
+END
+dialer_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/dialer_activity.xml
+END
+edit_phonetic_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/edit_phonetic_name.xml
+END
+contacts_list_search_results.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/4309/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_search_results.xml
+END
+display_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/display_group.xml
+END
+tab_account_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/tab_account_name.xml
+END
+contacts_list_content_join.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_content_join.xml
+END
+recent_calls_list_group_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/4302/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/recent_calls_list_group_item.xml
+END
+preference_with_more_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/preference_with_more_button.xml
+END
+phone_disambig_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/phone_disambig_item.xml
+END
+contacts_list_empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_empty.xml
+END
+create_new_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/create_new_contact.xml
+END
+list_item_text_icons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MID_PROJECT/!svn/ver/4210/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/list_item_text_icons.xml
+END
+quickcontact_header_small.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/quickcontact_header_small.xml
+END
+tab_left_arrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/tab_left_arrow.xml
+END
+quickcontact_item_nodata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/quickcontact_item_nodata.xml
+END
+display_options_phones_only.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/4228/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/display_options_phones_only.xml
+END
+contacts_search_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MID_PROJECT/!svn/ver/4315/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_search_content.xml
+END
+empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/empty.xml
+END
+recent_calls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3476/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/recent_calls.xml
+END
+list_section.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/list_section.xml
+END
+contacts_list_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MID_PROJECT/!svn/ver/4314/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_content.xml
+END
+contacts_list_search_all_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_search_all_item.xml
+END
+set_primary_checkbox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/set_primary_checkbox.xml
+END
+call_detail_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MID_PROJECT/!svn/ver/3675/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/call_detail_list_item.xml
+END
+contact_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contact_options.xml
+END
+quickcontact_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/quickcontact_item.xml
+END
+quickcontact_header_large.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/quickcontact_header_large.xml
+END
+recent_calls_list_child_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/4302/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/recent_calls_list_child_item.xml
+END
+split_aggregate_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/split_aggregate_list_item.xml
+END
+tab_right_arrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/tab_right_arrow.xml
+END
+contacts_list_show_all_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-finger/contacts_list_show_all_item.xml
+END

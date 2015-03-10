@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model
+END
+ContactsSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/ContactsSource.java
+END
+FallbackSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/4208/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/FallbackSource.java
+END
+ExchangeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/ExchangeSource.java
+END
+ExternalSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/ExternalSource.java
+END
+Sources.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/Sources.java
+END
+Net139Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/Net139Source.java
+END
+EntityDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/EntityDiff.java
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/Editor.java
+END
+EntityDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/EntityDelta.java
+END
+EntitySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/EntitySet.java
+END
+EntityModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/EntityModifier.java
+END
+GoogleSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/model/GoogleSource.java
+END

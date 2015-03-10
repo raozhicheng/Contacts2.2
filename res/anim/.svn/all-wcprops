@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim
+END
+quickcontact_above_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/quickcontact_above_enter.xml
+END
+search_bar_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/search_bar_exit.xml
+END
+search_bar_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/search_bar_enter.xml
+END
+quickcontact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/quickcontact.xml
+END
+quickcontact_below_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/quickcontact_below_exit.xml
+END
+dummy_animation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/dummy_animation.xml
+END
+quickcontact_above_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/quickcontact_above_exit.xml
+END
+quickcontact_below_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/anim/quickcontact_below_enter.xml
+END

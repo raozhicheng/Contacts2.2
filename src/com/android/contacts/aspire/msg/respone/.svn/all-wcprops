@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone
+END
+GetInfoByContactIdResponeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/GetInfoByContactIdResponeMsg.java
+END
+ListFriendItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/ListFriendItem.java
+END
+GetInfoByContactIdResponeMsg1.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/GetInfoByContactIdResponeMsg1.java
+END
+BaseWith139ResponeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/BaseWith139ResponeMsg.java
+END
+FriendItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/FriendItem.java
+END
+XmlResponseMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/XmlResponseMsg.java
+END
+GetCountInfoResponeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/GetCountInfoResponeMsg.java
+END
+ErrorResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/ErrorResponse.java
+END
+ListFriendsResponeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/ListFriendsResponeMsg.java
+END
+GroupItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/GroupItem.java
+END
+LoginAuthMsgResp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/LoginAuthMsgResp.java
+END
+IResponseMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/respone/IResponseMsg.java
+END

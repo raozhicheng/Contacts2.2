@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget
+END
+CheckableImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/CheckableImageView.java
+END
+DontPressWithParentImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/DontPressWithParentImageView.java
+END
+KindSectionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/KindSectionView.java
+END
+BaseContactEditorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/BaseContactEditorView.java
+END
+PhotoEditorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/PhotoEditorView.java
+END
+ReadOnlyContactEditorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/ReadOnlyContactEditorView.java
+END
+ContactEditorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/ContactEditorView.java
+END
+GenericEditorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ui/widget/GenericEditorView.java
+END

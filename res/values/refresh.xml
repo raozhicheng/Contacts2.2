@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="titlewait">"请稍后"</string> 
+  <string name="textwait">"正在进行身份验证......"</string> 
+  <string name="titleA">"身份验证成功"</string> 
+  <string name="textA">"已确认您为139用户，相关联系人将陆续下载到通讯录上"</string> 
+  <string name="titleB">"身份验证失败"</string> 
+  <string name="textB">"身份验证失败，请检查您的网络并稍后再试"</string> 
+  <string name="titleC">"您是非139用户"</string> 
+  <string name="textC">"非139用户只能显示SIM卡上的联系人。如注册成为139用户，则可以显示139上的网络联系人。注册请到http://www.139.com"</string>
+  <string name="titleok">"确定"</string> 
+  <string name="titlereturn">"返回"</string>  
+</resources>

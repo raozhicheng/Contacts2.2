@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MID_PROJECT/!svn/ver/3984/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts
+END
+ContactsSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactsSearchManager.java
+END
+ContactsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MID_PROJECT/!svn/ver/3666/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactsUtils.java
+END
+TwelveKeyDialer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MID_PROJECT/!svn/ver/4194/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/TwelveKeyDialer.java
+END
+GroupListViewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MID_PROJECT/!svn/ver/4325/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/GroupListViewActivity.java
+END
+SearchResultsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/SearchResultsActivity.java
+END
+RecentCallsListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/MID_PROJECT/!svn/ver/4337/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/RecentCallsListActivity.java
+END
+CallDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/4209/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/CallDetailActivity.java
+END
+SpecialCharSequenceMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/SpecialCharSequenceMgr.java
+END
+PinnedHeaderListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/PinnedHeaderListView.java
+END
+SearchEditText.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/SearchEditText.java
+END
+TabStripView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/TabStripView.java
+END
+Collapser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/Collapser.java
+END
+DialtactsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/4305/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/DialtactsActivity.java
+END
+ContactPresenceIconUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactPresenceIconUtil.java
+END
+GroupingListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/GroupingListAdapter.java
+END
+PhoneDisambigDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/PhoneDisambigDialog.java
+END
+ContactPhotoLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/3666/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactPhotoLoader.java
+END
+ProgressShower.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ProgressShower.java
+END
+TypePrecedence.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/TypePrecedence.java
+END
+NewDialtactsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/3666/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/NewDialtactsActivity.java
+END
+ContactListItemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/4299/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactListItemView.java
+END
+ViewContactActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/4316/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ViewContactActivity.java
+END
+AttachImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/AttachImage.java
+END
+ImportVCardActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ImportVCardActivity.java
+END
+TextHighlightingAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/TextHighlightingAnimation.java
+END
+ViewContactSecondaryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/MID_PROJECT/!svn/ver/4317/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ViewContactSecondaryActivity.java
+END
+ContactsLiveFolders.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactsLiveFolders.java
+END
+ExportVCardActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ExportVCardActivity.java
+END
+ContactEntryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactEntryAdapter.java
+END
+ContactsSectionIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactsSectionIndexer.java
+END
+ContactOptionsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactOptionsActivity.java
+END
+ScrollingTabWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ScrollingTabWidget.java
+END
+ContactsListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/MID_PROJECT/!svn/ver/4326/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/ContactsListActivity.java
+END
+SplitAggregateView.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/SplitAggregateView.java
+END

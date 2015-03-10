@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Used in RecentCallsListActivity.java -->
+    <string-array name="dailog_recent_calls_filter">
+        <item>所有通话</item>
+        <item>已接来电</item>
+        <item>已拨来电</item>
+        <item>未接电话</item>
+    </string-array>
+</resources>

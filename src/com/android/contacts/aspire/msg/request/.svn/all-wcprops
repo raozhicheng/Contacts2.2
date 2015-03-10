@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request
+END
+GetInfoByContactIdRequestMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/GetInfoByContactIdRequestMsg.java
+END
+XmlRequestMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/XmlRequestMsg.java
+END
+BaseWith139RequestMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/BaseWith139RequestMsg.java
+END
+GetCountInfoRequestMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/GetCountInfoRequestMsg.java
+END
+ListFriendsRequestMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/ListFriendsRequestMsg.java
+END
+IRequestMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/IRequestMsg.java
+END
+LoginAuthMsgReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/LoginAuthMsgReq.java
+END
+MessageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/msg/request/MessageHeader.java
+END

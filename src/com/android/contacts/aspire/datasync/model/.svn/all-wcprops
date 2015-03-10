@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/model
+END
+AspSimpleEntitySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/model/AspSimpleEntitySet.java
+END
+AspEntityDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/model/AspEntityDelta.java
+END
+AspSimpleEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/model/AspSimpleEntity.java
+END
+AspEntitySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/model/AspEntitySet.java
+END
+AspValuesDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/model/AspValuesDelta.java
+END

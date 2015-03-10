@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<!--RelativeLayout android:id="@+id/expandable_relative_layout"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:gravity="center_horizontal">
+		<TextView android:id="@+id/list_title_text" android:text="显示联系人"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:textColor="#ffbfbfbf" android:textSize="14sp"
+			android:textStyle="normal" android:layout_alignParentLeft="true"
+			android:gravity="center_vertical">
+		</TextView>
+		<android:singleLine="true">
+	</RelativeLayout-->
+	<TextView android:id="@+id/list_title_text" android:text="显示联系人"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="#ffbfbfbf" android:textSize="14sp"
+			android:textStyle="normal" android:layout_alignParentLeft="true"
+			android:gravity="center_vertical">
+		</TextView>
+	<ExpandableListView android:id="@android:id/list"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:drawSelectorOnTop="false" android:layout_below="@id/list_title_text">
+	</ExpandableListView>
+</RelativeLayout>

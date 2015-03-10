@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MID_PROJECT/!svn/ver/3819/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout
+END
+item_generic_editor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/item_generic_editor.xml
+END
+servicedialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/servicedialog.xml
+END
+vcardshare_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/vcardshare_main.xml
+END
+item_editor_field.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/item_editor_field.xml
+END
+item_kind_section.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/item_kind_section.xml
+END
+see_preference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MID_PROJECT/!svn/ver/3819/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/see_preference.xml
+END
+item_read_only_contact_editor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/item_read_only_contact_editor.xml
+END
+act_edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/act_edit.xml
+END
+item_photo_editor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/item_photo_editor.xml
+END
+item_read_only_field.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/item_read_only_field.xml
+END
+contacts_preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/contacts_preferences.xml
+END
+item_contact_editor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout/item_contact_editor.xml
+END

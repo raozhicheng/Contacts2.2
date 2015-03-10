@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MID_PROJECT/!svn/ver/3981/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-long-finger
+END
+elistview_zgy_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MID_PROJECT/!svn/ver/4236/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-long-finger/elistview_zgy_layout.xml
+END
+voicemail_dial_delete.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-long-finger/voicemail_dial_delete.xml
+END
+recent_calls_list_item_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/MID_PROJECT/!svn/ver/4324/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-long-finger/recent_calls_list_item_group.xml
+END
+recent_calls_list_item_twelve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/MID_PROJECT/!svn/ver/3666/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-long-finger/recent_calls_list_item_twelve.xml
+END
+dialpad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-long-finger/dialpad.xml
+END
+twelve_key_dialer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/res/layout-long-finger/twelve_key_dialer.xml
+END

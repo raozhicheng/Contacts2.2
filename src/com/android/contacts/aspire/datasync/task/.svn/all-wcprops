@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/task
+END
+IContacts139SyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/MID_PROJECT/!svn/ver/4341/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/task/IContacts139SyncTask.java
+END
+SimContactsSyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/task/SimContactsSyncTask.java
+END
+BaseTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/task/BaseTask.java
+END
+TaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/MID_PROJECT/!svn/ver/3420/trunk/client/MID1.1.0.0/ContactsMID_1.5/src/com/android/contacts/aspire/datasync/task/TaskManager.java
+END
